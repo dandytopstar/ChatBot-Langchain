@@ -1,19 +1,3 @@
-<!-- Title -->
-
-## 🚨🚨 This repository is unmaintained 🚨🚨
-Note that this repository is unmaintained. We've started working on another approach which gives more granular access to LLM-powered Agents. Please check out out https://github.com/homanp/superagent. We appreciate all the feedback and contributions 🙏🙏🙏
-
-# 🧬 LangChain UI
-The no-code open source chat-ai toolkit built on top of [LangChain](https://github.com/hwchase17/langchain).
-
-<p>
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/homanp/langchain-ui" />
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/homanp/langchain-ui" />
-<img alt="" src="https://img.shields.io/github/repo-size/homanp/langchain-ui" />
-<img alt="GitHub Issues" src="https://img.shields.io/github/issues/homanp/langchain-ui" />
-<img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/homanp/langchain-ui" />
-<img alt="Github License" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-</p>
 
 ## About the project
 
@@ -70,10 +54,10 @@ We have migrated all agent functionality from LangChain Typescript to LangChain 
 
 1. Setup the [Langchain UI API](https://github.com/homanp/langchain-ui-api)
 
-1. Clone the repo into a public GitHub repository (or fork https://github.com/homanp/langchain-ui/fork). If you plan to distribute the code, keep the source code public.
+1. Clone the repo into a public GitHub repository (or fork https://github.com/midasminer/langchain-chatbot/fork). If you plan to distribute the code, keep the source code public.
 
    ```sh
-   git clone https://github.com/homanp/langchain-ui.git
+   git clone https://github.com/midasminer/langchain-chatbot
    ```
 
 1. Go to the project folder
@@ -109,9 +93,3 @@ We have migrated all agent functionality from LangChain Typescript to LangChain 
    ```sh
    npm run build
    ```
-
-## Contributions
-
-Our mission is to make it easy for anyone to create and run LLM apps in the cloud. We are super happy for any contributions you would like to make. Create new features, fix bugs or improve on infra.
-
-You can read more on how to contribute [here](https://github.com/homanp/langchain-ui/blob/main/.github/CONTRIBUTING.md).
