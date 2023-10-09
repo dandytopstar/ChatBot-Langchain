@@ -54,10 +54,10 @@ We have migrated all agent functionality from LangChain Typescript to LangChain 
 
 1. Setup the [Langchain UI API](https://github.com/homanp/langchain-ui-api)
 
-1. Clone the repo into a public GitHub repository (or fork https://github.com/midasminer/langchain-chatbot/fork). If you plan to distribute the code, keep the source code public.
+1. Clone the repo into a public GitHub repository (or fork https://github.com/dandytopstar/ChatBot-Langchain/fork). If you plan to distribute the code, keep the source code public.
 
    ```sh
-   git clone https://github.com/midasminer/langchain-chatbot
+   git clone https://github.com/dandytopstar/ChatBot-Langchain
    ```
 
 1. Go to the project folder
